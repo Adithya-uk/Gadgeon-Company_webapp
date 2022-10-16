@@ -1,0 +1,38 @@
+.home-cont-images{
+    /* background-color: blue; */
+    height:350px;
+    width:100%;
+    /* text-align: center; */
+    
+}
+
+.home-cont-info{
+    /* background-color: black; */
+    height:400px;
+    width:100%;
+    /* margin-top: 40px; */
+}
+
+img{
+    border:5px solid grey;
+    float:left;
+    height:300px;
+    width:400px;
+    margin-left:35%;
+    margin-top:70px;
+
+
+}
+.heading{
+    margin-top: 100px;
+
+    text-align:center;
+    font-size: 50px;
+    color:orangered
+}
+
+.info{
+    text-align: center;
+    margin-left:30px;
+    margin-right: 30px;
+}
