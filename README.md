@@ -1,7 +1,4 @@
 # Gadgeon-Company_webapp
 
-KORE-3Boards Public
-We used css and services to recreate the three boards in phase 3.
+The first single page application with four components , a simple website made to learn how to have more than one component in an App. It was done using Routing.
 
-Made three components and added one button for each component and did some functions on click.
-Used bootstrap.
